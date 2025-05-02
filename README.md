@@ -1,8 +1,8 @@
 # Agrivoltaics
 Group work in FPSS
-## Erklärung Daten: 
+## Description Data: 
 
-**Niederschlag:**
+**Precipitation:**
 QN: Qualitaetsniveau
 RWS_DAU_10: [\Niederschlagsdauer\,\Fehlwert=-999\] minute NUMBER 9990.0
 RWS_10: [\Summe der Niederschlagshöhe der vorangegangen 10 Minuten\,\Fehlwert=-999\] mm NUMBER 9990.90
