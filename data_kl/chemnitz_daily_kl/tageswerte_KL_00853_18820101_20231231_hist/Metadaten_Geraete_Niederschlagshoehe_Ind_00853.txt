@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+853;Chemnitz;12.87;50.79;416.11;1;19881205;20060426;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+853;Chemnitz;12.87;50.79;416.11;1;19950529;20141217;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+853;Chemnitz;12.87;50.79;416.11;1;20141020;20240328;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

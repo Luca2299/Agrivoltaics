@@ -1,0 +1,6 @@
+Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Einheit;Datenquelle (Strukturversion=SV);Zusatz-Info;Besonderheiten;Literaturhinweis;eor;
+691;20090101;20250331;Bremen;FD_STRAHL;Tagessume der kurzwelligen diffusen Himmelsstrahlung;J/cm²;Strahlungsmessnetz, nur Gerätetyp Pyranometer (früher wissenschaftliches Messnetz des MOL);00:00 UTC bis 23:00 UTC;;;eor;
+691;20090101;20250331;Bremen;FG_STRAHL;Tagessume der kurzwelligen Globalstrahlung;J/cm²;Strahlungsmessnetz, nur Gerätetyp Pyranometer (früher wissenschaftliches Messnetz des MOL);00:00 UTC bis 23:00 UTC;;;eor;
+691;20090101;20250331;Bremen;SD_STRAHL;Tagessume der Sonnenscheindauer;Stunde;Strahlungsmessnetz, nur Gerätetyp Pyranometer (früher wissenschaftliches Messnetz des MOL);00:00 UTC bis 23:00 UTC;;;eor;
+Legende: FT  = Folgetag; GZ = Gesetzliche Zeit
+generiert: 02.05.2025 --  Deutscher Wetterdienst  --

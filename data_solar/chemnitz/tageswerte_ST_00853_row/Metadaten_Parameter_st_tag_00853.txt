@@ -1,0 +1,6 @@
+Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Einheit;Datenquelle (Strukturversion=SV);Zusatz-Info;Besonderheiten;Literaturhinweis;eor;
+853;19880805;20250331;Chemnitz;FD_STRAHL;Tagessume der kurzwelligen diffusen Himmelsstrahlung;J/cm²;Strahlungsmessnetz, nur Gerätetyp Pyranometer (früher wissenschaftliches Messnetz des MOL);00:00 UTC bis 23:00 UTC;;;eor;
+853;19810305;20250331;Chemnitz;FG_STRAHL;Tagessume der kurzwelligen Globalstrahlung;J/cm²;Strahlungsmessnetz, nur Gerätetyp Pyranometer (früher wissenschaftliches Messnetz des MOL);00:00 UTC bis 23:00 UTC;;;eor;
+853;19810101;20250331;Chemnitz;SD_STRAHL;Tagessume der Sonnenscheindauer;Stunde;Strahlungsmessnetz, nur Gerätetyp Pyranometer (früher wissenschaftliches Messnetz des MOL);00:00 UTC bis 23:00 UTC;;;eor;
+Legende: FT  = Folgetag; GZ = Gesetzliche Zeit
+generiert: 02.05.2025 --  Deutscher Wetterdienst  --
