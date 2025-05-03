@@ -1,0 +1,23 @@
+Version: 1.0
+AgroManagement:
+- 2006-01-01:
+    CropCalendar:
+        crop_name: potato
+        variety_name: generic
+        crop_start_date: 2006-04-05
+        crop_start_type: emergence
+        crop_end_date: 2006-10-20
+        crop_end_type: harvest  
+    TimedEvents:
+    -   event_signal: irrigate
+        name: irrigation in cm
+        comment: efficiency is amount added to soil reservoir
+        events_table:
+        - 2025-05-15: {amount: 30, efficiency: 0.8}
+    -   event_signal: apply_n
+        name: Nitrogen application
+        comment: Nitrogen amounts in g N m-1
+        events_table:
+        -   2025-05-10: {amount: 10, recovery: 0.7}
+        -   2025-06-01: {amount: 5, recovery: 0.7}
+    StateEvents: null
