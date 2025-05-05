@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+853;Chemnitz;12.87;50.79;416.11;1.5;19810101;19810904;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+853;Chemnitz;12.87;50.79;416.11;5.1;19810905;19920409;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+853;Chemnitz;12.87;50.79;416.11;5.1;19920410;20150218;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+853;Chemnitz;12.87;50.79;416.11;5.1;20150224;20170822;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+853;Chemnitz;12.87;50.79;416.11;5.1;20170823;20181204;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+853;Chemnitz;12.87;50.79;416.11;5.1;20181210;20210702;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+853;Chemnitz;12.87;50.79;416.11;5.1;20210708;20240304;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+853;Chemnitz;12.87;50.79;416.11;5.1;20240307;20240623;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+853;Chemnitz;12.87;50.79;416.11;5.1;20240703;20250401;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+generiert: 02.05.2025 --  Deutscher Wetterdienst  --
