@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3815;Osnabrück;8.05;52.26;95.36;1;19921125;20080422;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+3815;Osnabrück;8.05;52.26;95.36;1;19941012;20031111;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3815;Osnabrück;8.05;52.26;95.36;1;20080423;20101130;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

@@ -1,0 +1,27 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+3815;Osnabrück;TMK;28.04.2001;30.04.2001;3;;eor;                                                                                                                                                        
+3815;Osnabrück;TXK;28.04.2001;30.04.2001;3;;eor;                                                                                                                                                        
+3815;Osnabrück;TNK;28.04.2001;30.04.2001;3;;eor;                                                                                                                                                        
+3815;Osnabrück;TGK;28.04.2001;30.04.2001;3;;eor;                                                                                                                                                        
+3815;Osnabrück;PM;28.04.2001;30.04.2001;3;;eor;                                                                                                                                                         
+3815;Osnabrück;PM;31.05.2001;31.05.2001;1;;eor;                                                                                                                                                         
+3815;Osnabrück;PM;22.06.2001;22.06.2001;1;;eor;                                                                                                                                                         
+3815;Osnabrück;PM;19.07.2001;19.07.2001;1;;eor;                                                                                                                                                         
+3815;Osnabrück;FM;30.11.1992;30.11.1992;1;;eor;                                                                                                                                                         
+3815;Osnabrück;FM;08.12.1992;08.12.1992;1;;eor;                                                                                                                                                         
+3815;Osnabrück;UPM;28.04.2001;30.04.2001;3;;eor;                                                                                                                                                        
+3815;Osnabrück;UPM;31.05.2001;31.05.2001;1;;eor;                                                                                                                                                        
+3815;Osnabrück;VPM;28.04.2001;30.04.2001;3;;eor;                                                                                                                                                        
+3815;Osnabrück;VPM;31.05.2001;31.05.2001;1;;eor;                                                                                                                                                        
+3815;Osnabrück;NM;01.04.2001;01.04.2001;1;;eor;                                                                                                                                                         
+3815;Osnabrück;NM;03.04.2001;03.04.2001;1;;eor;                                                                                                                                                         
+3815;Osnabrück;NM;13.04.2001;16.04.2001;4;;eor;                                                                                                                                                         
+3815;Osnabrück;NM;24.04.2001;30.04.2001;7;;eor;                                                                                                                                                         
+3815;Osnabrück;NM;07.05.2001;07.05.2001;1;;eor;                                                                                                                                                         
+3815;Osnabrück;SDK;28.04.2001;30.04.2001;3;;eor;                                                                                                                                                        
+3815;Osnabrück;RSK;28.04.2001;30.04.2001;3;;eor;                                                                                                                                                        
+3815;Osnabrück;RSKF;28.04.2001;30.04.2001;3;;eor;                                                                                                                                                       
+3815;Osnabrück;SHK_TAG;16.04.2001;16.04.2001;1;;eor;                                                                                                                                                    
+3815;Osnabrück;SHK_TAG;28.04.2001;30.04.2001;3;;eor;                                                                                                                                                    
+3815;Osnabrück;SHK_TAG;01.12.2001;02.12.2001;2;;eor;                                                                                                                                                    
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --                                                                                                                                                    

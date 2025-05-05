@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3815;Osnabrück;8.05;52.25;97.92;4;19520201;19531218;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3815;Osnabrück;8.05;52.26;95.36;6;19531219;19540331;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3815;Osnabrück;8.05;52.26;95.36;8;19540401;19930430;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3815;Osnabrück;8.05;52.26;95.36;9999;19900510;20101130;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3815;Osnabrück;8.05;52.26;95.36;8;19921125;20080422;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

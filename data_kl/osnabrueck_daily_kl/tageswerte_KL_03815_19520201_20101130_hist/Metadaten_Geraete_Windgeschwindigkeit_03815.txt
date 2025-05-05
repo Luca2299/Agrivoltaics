@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3815;Osnabrück;8.05;52.26;95.36;18;19590821;19921124;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+3815;Osnabrück;8.05;52.26;95.36;19;19921125;20101130;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

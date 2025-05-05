@@ -1,0 +1,6 @@
+Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Einheit;Datenquelle (Strukturversion=SV);Zusatz-Info;Besonderheiten;Literaturhinweis;eor;
+3815;19790401;20011119;Osnabrück;FD_STRAHL;Tagessume der kurzwelligen diffusen Himmelsstrahlung;J/cm²;Strahlungsmessnetz, nur Gerätetyp Pyranometer (früher wissenschaftliches Messnetz des MOL);00:00 UTC bis 23:00 UTC;;;eor;
+3815;19770301;20011119;Osnabrück;FG_STRAHL;Tagessume der kurzwelligen Globalstrahlung;J/cm²;Strahlungsmessnetz, nur Gerätetyp Pyranometer (früher wissenschaftliches Messnetz des MOL);00:00 UTC bis 23:00 UTC;;;eor;
+3815;19770101;20011119;Osnabrück;SD_STRAHL;Tagessume der Sonnenscheindauer;Stunde;Strahlungsmessnetz, nur Gerätetyp Pyranometer (früher wissenschaftliches Messnetz des MOL);00:00 UTC bis 23:00 UTC;;;eor;
+Legende: FT  = Folgetag; GZ = Gesetzliche Zeit
+generiert: 05.05.2025 --  Deutscher Wetterdienst  --
