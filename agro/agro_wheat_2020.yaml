@@ -1,12 +1,12 @@
 Version: 1.0
 AgroManagement:
-- 2020-02-01:
+- 2020-04-01:
     CropCalendar:
         crop_name: wheat
         variety_name: Winter_wheat_101
-        crop_start_date: 2020-02-01
+        crop_start_date: 2020-04-01
         crop_start_type: emergence
-        crop_end_date: 2020-10-30
+        crop_end_date: 2020-09-01
         crop_end_type: harvest  
     TimedEvents: null
     StateEvents: null
