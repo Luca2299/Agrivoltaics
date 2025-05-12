@@ -1,0 +1,6 @@
+## Site Characteristics
+Country='Germany'; Station='Chemnitz'; Description='Observed data'; Source='Your Source'; Contact='Your Contact'; Longitude=12.92; Latitude=50.83; Elevation=300; AngstromA=0.25; AngstromB=0.50; HasSunshine=False
+## Daily weather observations (missing values are NaN)
+DAY,IRRAD,TMIN,TMAX,VAP,WIND,RAIN,SNOW
+20090101,100,0,-5,1,2,0,0
+20090102,150,1,-4,2,3,0,0
